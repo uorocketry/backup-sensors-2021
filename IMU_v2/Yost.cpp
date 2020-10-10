@@ -238,4 +238,8 @@ void Yost::set_axis_directions_with_tare() {
     t |= 0xF000;
  }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6a510a0f3548c08758c07784ee1376caff4ec385
