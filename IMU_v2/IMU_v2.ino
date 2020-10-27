@@ -138,8 +138,4 @@ void sw_reset(){
          Serial.write(x);
         }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 6a510a0f3548c08758c07784ee1376caff4ec385

@@ -141,8 +141,4 @@ void getStatus() {
   delay(500);
 
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 6a510a0f3548c08758c07784ee1376caff4ec385

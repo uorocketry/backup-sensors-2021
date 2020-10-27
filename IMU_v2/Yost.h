@@ -82,8 +82,4 @@ class Yost
 
 };
 
-<<<<<<< HEAD
 #endif
-=======
-#endif
->>>>>>> 6a510a0f3548c08758c07784ee1376caff4ec385
